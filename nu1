@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+       <head>
+    <!-- hier zet je de code in de head tags -->
+         <title> 1st project winc </title>
+       </head>
+       <body>
+         <!-- hier zet je de code in de body tags-->
+
+         <h1>Een simele website van Winc Academy</h1>
+         <h2>Ook nog een heading 2</h2>
+         <p> hi every one</p>
+         <hr>
+
+       </body>
+</html>
